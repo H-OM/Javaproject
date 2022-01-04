@@ -1,5 +1,6 @@
-//
-//homar03@student.bbk.ac.uk
+// homar03@student.bbk.ac.uk
+// 13030243
+
 
 package fraction;
 import org.junit.*;
